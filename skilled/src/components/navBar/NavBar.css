@@ -1,0 +1,17 @@
+.navbar-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 25px;
+}
+
+.navbar-container div {
+    border-radius: 50px;
+    background: #13183F;
+    color: #FFFFFF;
+    padding: 14px 35px;
+    font-size: 20px;
+}
