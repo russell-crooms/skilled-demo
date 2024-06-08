@@ -12,14 +12,15 @@
 }
 
 .hero-header {
-    font-size: 45px;
+    font-size: 56px;
     font-weight: 500;
     color: #13183F;
+    line-height: 70px;
 }
 
 .hero-para {
     font-size: 18px;
-    line-height: 30px;
+    line-height: 28px;
     color: #83869A;
 }
 
